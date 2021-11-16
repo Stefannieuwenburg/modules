@@ -6,7 +6,7 @@ __human_name__ = 'modules'
 
 # part 1
 
-import this 
+
 import time
 import math
 import datetime
